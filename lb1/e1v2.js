@@ -1,4 +1,5 @@
-function inc(num) {
+function inc(num) 
+{
     num.n += 1;
 }
 
