@@ -3,7 +3,7 @@ function inc(num)
     num.n += 1;
 }
 
-// Приклад виклику
+// example call
 const obj = { n: 5 };
 inc(obj);
 console.dir(obj); // { n: 6 }
